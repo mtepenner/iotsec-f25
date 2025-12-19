@@ -107,7 +107,7 @@ I was indeed able to verify that my Airlift Featherwing does work when I downloa
 and tested out my connection in class with my hotspot (Please don't make fun of its name).
 
 
-![An example image](lab2/Screenshot_from_2025-10-27_13-42-54.png "Test success")
+![An example image](Screenshot_from_2025-10-27_13-42-54.png "Test success")
 
 ### Below is the code I pulled from Adafruit documentation along with the essential libraries to get the
 ### OLED display working:
