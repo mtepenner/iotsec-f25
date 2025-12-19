@@ -10,7 +10,7 @@ one I bring to class) has security measures that make all usb devices read only,
 
 ![An example image](lab1/trigger.png "The initial setup")
 
-I ended up using Tori Anderson's laptop when we did our partner testing phase of the lab, and when
+I ended up using a fellow student's laptop when we did our partner testing phase of the lab, and when
 I pressed the boot button on my radio, the light on her device lit up like this:
 
 ![An example image](lab1/20251015_140515.jpg "The initial setup")
