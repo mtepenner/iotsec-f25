@@ -92,7 +92,7 @@ if usb_cdc.data:
     status_label.text = "PCAP Ready. Waiting..."
 ```
 Here is what shows up on the display:
-![An example image](lab3/20251112_150340_2.jpg "Test success")
+![An example image](20251112_150340_2.jpg "Test success")
 
 ### PCAP Packet Record: Next, I needed to send a header for every single packet. 
 
